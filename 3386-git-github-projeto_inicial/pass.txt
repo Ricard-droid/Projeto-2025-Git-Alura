@@ -1,0 +1,1 @@
+campo senha secreta a ser ignorado no GitHub !
